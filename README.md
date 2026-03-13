@@ -94,10 +94,9 @@ print(f"The correct codeword is : " + " " .join(map(str,add)))
 
 ```
 # Output Waveform
-<img width="602" height="784" alt="Screenshot 2026-03-13 134502" src="https://github.com/user-attachments/assets/d3b1aa51-b166-4e4c-8dda-2542cc7b29d2" />
+<img width="429" height="947" alt="Screenshot 2026-03-13 134707" src="https://github.com/user-attachments/assets/1b5dc972-acb3-4e2b-8541-27f7a63a98c3" />
+
 
 # Results
 ```
-Attach the output waveform
-```
-# Hardware experiment output waveform.
+Thus linear block code operation for the given input is successfully verified.```
