@@ -94,10 +94,8 @@ print(f"The correct codeword is : " + " " .join(map(str,add)))
 
 ```
 # Output Waveform
-```
 <img width="602" height="784" alt="Screenshot 2026-03-13 134502" src="https://github.com/user-attachments/assets/d3b1aa51-b166-4e4c-8dda-2542cc7b29d2" />
 
-```
 # Results
 ```
 Attach the output waveform
